@@ -1,4 +1,8 @@
-Alle Ergebnisse der in der Masterarbeit verwendeten Modelle sind im Ordner "models" gespeichert. 
+[![DOI](https://zenodo.org/badge/926600239.svg)](https://doi.org/10.5281/zenodo.14795357)
+
+
+
+Alle Ergebnisse der in der Veröffentlichung verwendeten Modelle sind im Ordner "models" gespeichert. 
 
 # Anleitung
 
