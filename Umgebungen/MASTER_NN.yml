@@ -1,0 +1,14 @@
+name: MASTER_NN
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy=1.19
+  - scipy
+  - scikit-learn
+  - keras
+  - tensorflow
+  - spyder
+  - pandas=1.4
+  - tqdm
+  - matplotlib
